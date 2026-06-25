@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Lab 21 specific ignores
+lab21_lora_t4/
+lab21_2A202600850/
+*.zip
+
